@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+body{
+	font-family:helvetica;
+	background:url("manzara6.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.ortalama{
+	width:70%;
+	margin:0 auto;
+}
+header{
+	min-height:100px;
+	color:white;
+}
+header li{
+	float:left;
+	list-style:none;
+	line-height:70px;
+}
+header li a{
+	padding:20px;
+	font-size:40px;
+	color:white;
+	text-decoration:none;
+	text-align:center;
+
+}
+.nav{
+		float:right;
+}
+.resim{
+	float:left;
+	border-radius:100px;
+}
+.yazilar{
+	width:100%;
+	height:auto;
+	
+	color:white;
+	line-height:30px;
+}
+
+	
